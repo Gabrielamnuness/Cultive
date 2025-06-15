@@ -1,2 +1,10 @@
 # Cultive
-Aplicativo de mapeamento de pontos de lixo orgânico
+### Aplicativo de mapeamento de pontos de lixo orgânico estratégicamente instalados em Vitória da Conquista/ BA 
+
+Ativadade de extensão desenvolvida com base nas ODS - UNINTER
+Meu projeto tem como intuito fomentar a Agricultura Familiar.
+Através dessa ferramenta tecnológica, espera-se promover a conscientização ambiental da população local, facilitar o gerenciamento dos resíduos orgânicos e, principalmente, fomentar práticas sustentáveis por meio da destinação adequada desses resíduos para a produção de adubo.
+
+Abaixo temos o frame do Projeto 
+
+
