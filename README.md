@@ -6,7 +6,7 @@
 **Meu projeto tem como intuito fomentar a Agricultura Familiar.
 Através dessa ferramenta tecnológica, espera-se promover a conscientização ambiental da população local, facilitar o gerenciamento dos substratos orgânicos e, principalmente, incentivar práticas sustentáveis por meio da destinação adequada desses resíduos para a produção de adubo.**
 
-###                  Abaixo temos o frame do Projeto 
+## Abaixo temos o Frame do Projeto 
 
 ![Cultive](/img/1.png)
 ![Mapa](/img/2.png)
