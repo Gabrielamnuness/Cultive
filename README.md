@@ -8,11 +8,11 @@ Através dessa ferramenta tecnológica, espera-se promover a conscientização a
 
 ###                  Abaixo temos o frame do Projeto 
 
-![Cultive](https://github.com/user-attachments/assets/64d78ae1-4231-4235-9505-6962a9c40213)
-![Mapa](https://github.com/user-attachments/assets/1ad55283-7293-4bfd-9176-74bc7f8098e1)
+![Cultive](/img/1.png)
+![Mapa](/img/2.png)
 
-![Endereço](https://github.com/user-attachments/assets/2e2835da-0eaa-4b2d-b871-7ca0dac8275d)
-![Avaliação](https://github.com/user-attachments/assets/92f43520-3f9e-495f-a89c-17c79f7fc6c3)
+![Endereço](/img/3.png)
+![Avaliação](/img/4.png)
 
 
 
